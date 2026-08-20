@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset",
+    "name": "Resume Dataset",
+    "snippet": "A collection of Resume Examples for categorizing a given resume into any of the labels defined in the dataset . Content Contains 2400+ Resumes in string as well ...",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/datasets/rayyankauchali0/resume-dataset",
+    "name": "Resume_Dataset",
+    "snippet": "This dataset is designed for cutting-edge NLP research in resume parsing, job classification , and ATS system development.",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/datasets/mgmitesh/ats-scoring-dataset",
+    "name": "ATS Scoring Dataset",
+    "snippet": "This dataset is designed for building and evaluating ATS (Applicant Tracking System) models that extract structured information from resumes using NLP ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/datasets/amaymishra11/resume-screening-dataset-ats-and-nlp-ready",
+    "name": "How Companies Screen Resumes: ATS Dataset (NLP+ML)",
+    "snippet": "This dataset simulates a real-world Applicant Tracking System ( ATS ) used for resume screening and candidate shortlisting. It combines resume data, job ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/datasets?search=resume",
+    "name": "Find Open Datasets and Machine Learning Projects",
+    "snippet": "Browse and download hundreds of thousands of open datasets for AI research, model training, and analysis.",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2406.18125v2",
+    "name": "ResuméAtlas: Revisiting Resume Classification with Large",
+    "snippet": "Jul 12, 2024 — The study employs a dataset of 962 labeled resumes across 25 job categories and evaluates nine ML classification models, including SVM, Naïve ...",
+    "host_name": "arxiv.org",
+    "rank": 5,
+    "date": "Jul 12, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/datasets/sonalshinde123/ai-driven-resume-screening-dataset",
+    "name": "AI-Driven Resume Screening Dataset",
+    "snippet": "This dataset models the end-to-end resume screening process by incorporating key candidate attributes such as professional experience, skills alignment with job ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://data.mendeley.com/datasets/wzzwn37gmd/1",
+    "name": "A Comprehensive Dataset of Annotated Resumes",
+    "snippet": "Dec 4, 2025 — Kaggle dataset (LiveCareer.com professionally crafted resumes) for five categories, Resume classification and categorization models",
+    "host_name": "data.mendeley.com",
+    "rank": 7,
+    "date": "Dec 4, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/datasets/thejohnwick001/resume-data-for-ranking/data",
+    "name": "Resume Data for Ranking",
+    "snippet": "This dataset provides structured resume information paired with job descriptions to support the development of resume ranking algorithms, candidate-job matching ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]
